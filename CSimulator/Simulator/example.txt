@@ -1,0 +1,8 @@
+read 00
+read 01
+load 00
+div 01
+store 02
+write 02
+brn 07
+halt
